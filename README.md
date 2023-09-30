@@ -1,5 +1,5 @@
 
-# Chess AI
+# Redis
 
 Remote Dictionary Server(Redis) which is a fast, in-memory, key-value data store implemented in C++.
 
